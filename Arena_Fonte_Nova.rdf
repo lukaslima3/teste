@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:ns8="http://www.w3.org/ns/prov#"
+	xmlns:grs="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahia_Arena">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arena_Fonte_Nova">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FootballVenuesInBrazil" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2016SummerOlympicVenues" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/StadiumOrArena" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SportFacility" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OlympicFootballVenues" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Stadium104295881" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Venue108677628" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Stadium" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scene108645963" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StadiumsUnderConstruction" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2014FIFAWorldCupStadiums" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03cnvf0" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Arena_Fonte_Nova" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2014_FIFA_World_Cup_stadiums" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_venues_in_Bahia" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_football_venues" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Salvador,_Bahia" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Football_venues_in_Brazil" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2016_Summer_Olympic_venues" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_venues_completed_in_2012" />
+    <dbpedia-owl:abstract xml:lang="en">The Arena Fonte Nova officially Arena Professor Octávio Mangabeira is a project for a new football-only stadium for the 2014 World Cup. The stadium is located in Salvador, Bahia and it has a maximum capacity of 56,500 people. The stadium will be built in place of the older Estádio Fonte Nova. An architects group of Brunswick, Germany, which also redesigned the old Hanover stadium into a modern arena for the 2006 World Cup has been selected after bidding. It will also be one of the venues used for the football preliminaries of the 2016 Summer Olympics.</dbpedia-owl:abstract>
+    <dbpedia-owl:cost rdf:datatype="http://dbpedia.org/datatype/usDollar">591.07</dbpedia-owl:cost>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Nazar%C3%A9,_Bahia" />
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Brazil" />
+    <dbpedia-owl:openingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-31</dbpedia-owl:openingDate>
+    <dbpedia-owl:seatingCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</dbpedia-owl:seatingCapacity>
+    <dbpedia-owl:tenant rdf:resource="http://dbpedia.org/resource/Esporte_Clube_Vit%C3%B3ria" />
+    <dbpedia-owl:tenant rdf:resource="http://dbpedia.org/resource/Esporte_Clube_Bahia" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13940564</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547700250</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Arena Fonte Nova</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/10/Copa-do-mundo-2014-todas-as-obras-dos-estadios-estao-dentro-do-cronograma.jpg" />
+    <rdfs:comment xml:lang="en">The Arena Fonte Nova officially Arena Professor Octávio Mangabeira is a project for a new football-only stadium for the 2014 World Cup. The stadium is located in Salvador, Bahia and it has a maximum capacity of 56,500 people. The stadium will be built in place of the older Estádio Fonte Nova. An architects group of Brunswick, Germany, which also redesigned the old Hanover stadium into a modern arena for the 2006 World Cup has been selected after bidding.</rdfs:comment>
+    <foaf:name xml:lang="en">Arena Professor Octávio Mangabeira</foaf:name>
+    <foaf:name xml:lang="en">Arena Fonte Nova</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Copa-do-mundo-2014-todas-as-obras-dos-estadios-estao-dentro-do-cronograma.jpg/200px-Copa-do-mundo-2014-todas-as-obras-dos-estadios-estao-dentro-do-cronograma.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fifa.com/mm/document/affederation/mission/fwc2014%5fbrazil%5fbid%5finspection%5freport%5fen%5f24491.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.skyscrapercity.com/showthread.php?t=973400" />
+    <dbpprop:architect xml:lang="en">Marc Duwe and Claas Schulitz</dbpprop:architect>
+    <dbpprop:brokeGround rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</dbpprop:brokeGround>
+    <dbpprop:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.5</dbpprop:capacity>
+    <dbpprop:constructionCost xml:lang="en">R$ 591.070.000</dbpprop:constructionCost>
+    <dbpprop:dimensions rdf:datatype="http://dbpedia.org/datatype/second">4500.0</dbpprop:dimensions>
+    <dbpprop:fullname xml:lang="en">Arena Professor Octávio Mangabeira</dbpprop:fullname>
+    <dbpprop:location xml:lang="en">R. Lions Club, 217-547, Nazaré, Salvador, Brazil</dbpprop:location>
+    <dbpprop:name xml:lang="en">Arena Fonte Nova</dbpprop:name>
+    <dbpprop:opened rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-31</dbpprop:opened>
+    <dbpprop:operator xml:lang="en">Fonte Nova Negócios e Participações S/A</dbpprop:operator>
+    <dbpprop:owner xml:lang="en">Government of Bahia</dbpprop:owner>
+    <dbpprop:surface xml:lang="en">Grass</dbpprop:surface>
+    <dbpprop:tenants rdf:resource="http://dbpedia.org/resource/Esporte_Clube_Vit%C3%B3ria" />
+    <dbpprop:tenants rdf:resource="http://dbpedia.org/resource/Esporte_Clube_Bahia" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-38.5042 -12.9786)</geo:geometry>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arena_Fonte_Nova" />
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-38.5042</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-12.9786</geo:lat>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arena_Fonte_Nova?oldid=547700250" />
+    <grs:point xml:lang="en">-12.97861111111111 -38.50416666666667</grs:point>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Arena_Fonte_Nova" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/structuralEngineer(roof)_" xml:lang="en">Mathias Kutterer, Yu Hui , Jorge Cheveney</p:>
+    -->
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpedia-owl:wikiPageInLinkCount>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbpedia-owl:wikiPageOutLinkCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy_national_football_team">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay_national_football_team">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_FIFA_World_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esporte_Clube_Bahia">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_FIFA_Confederations_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria_national_football_team_2013">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arena_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Arena_Fonte_Nova">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_in_Brazilian_football">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Arena_Fonte_Nova" />
+  </rdf:Description>
+</rdf:RDF>

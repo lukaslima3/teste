@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:ns4="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:ns9="http://www.w3.org/ns/prov#"
+	xmlns:grs="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astrud_Gilberto">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federal_University_of_Bahia">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gal_Costa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simone_Bittencourt_de_Oliveira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlinhos_Brown">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador,_Bahia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PopulatedCoastalPlacesInBahia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1549" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NationalCapital108691669" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Seat108647945" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StateCapital108695539" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldHeritageSitesInBrazil" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Capital108518505" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StateCapitalsInBrazil" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Center108523483" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormerNationalCapitals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://vec.dbpedia.org/resource/Salvador_(sità)" />
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Salvador,_Brazil" />
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Салвадор" />
+    <owl:sameAs rdf:resource="http://tg.dbpedia.org/resource/Салвадор_(шаҳр)" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVjjjZwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Salvador_(brazilské_město)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Salvador_(stad)" />
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://mwl.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Salvador_(mesto)" />
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Salvador_(Brazil)" />
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Salvador_(Brasiilia)" />
+    <owl:sameAs rdf:resource="http://rm.dbpedia.org/resource/Salvador_da_Bahia" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://zh_min_nan.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Салвадор_(Баия)" />
+    <owl:sameAs rdf:resource="http://ay.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Salvador,_Brasil" />
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Salvador_da_Bahia" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Salvador_de_Bahio" />
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/সালভাদোর,_বাইয়া" />
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Салвадор_(Баия)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q36947" />
+    <owl:sameAs rdf:resource="http://eml.dbpedia.org/resource/Salvador_Bahia" />
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Salvadora_(pilsēta)" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/سالوادور" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Салвадор_(Бразилія)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09wwlj" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node34593849" />
+    <owl:sameAs rdf:resource="http://os.dbpedia.org/resource/Салвадор_(Баия)" />
+    <owl:sameAs rdf:resource="http://mi.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Salvador,_Brasilien" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://tet.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Salvador_(Brasil)" />
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://lij.dbpedia.org/resource/Salvador,_Brasî" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Salvador_da_Bahia" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/サルヴァドール" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Salvador_de_Bahía" />
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/سلوادور" />
+    <owl:sameAs rdf:resource="http://be_x_old.dbpedia.org/resource/Сальвадор_(горад)" />
+    <owl:sameAs rdf:resource="http://vo.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/سالفادور،_باهيا" />
+    <owl:sameAs rdf:resource="http://yo.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Горад_Сальвадор" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/סלבדור_(ברזיל)" />
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/साल्व्हादोर_दा_बाईया" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Salvador_(Brasile)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σαλβαδόρ_(Βραζιλία)" />
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Salvador_da_Bahia" />
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Salvadoras_(miestas)" />
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Салвадор_(Баия)" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://gn.dbpedia.org/resource/Salvador_(Bahía)" />
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Salvador_da_Bahia" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Salvador_(Brasilia)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Salvador_(Bahia)" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Salvador_(Brazil)" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/სალვადორი_(ბრაზილია)" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Soteropolis_(Brasilia)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/사우바도르" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Салвадор_(Бразил)" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/ซัลวาดอร์" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/3450554/" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Salvador" />
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Salvador,_Baía" />
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Salvador_(cità)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Salvador,_Brasil" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/萨尔瓦多_(巴西)" />
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Salvador_(Brasil)" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Salvador,_Bahia" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_Heritage_Sites_in_Brazil" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_coastal_places_in_Bahia" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:State_capitals_in_Brazil" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_places_established_in_1549" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Former_national_capitals" />
+    <ns4:area rdf:datatype="http://dbpedia.org/datatype/squareKilometre">1.0E-6</ns4:area>
+    <ns4:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">706.0</ns4:areaTotal>
+    <ns4:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">3791.2</ns4:populationDensity>
+    <dbpedia-owl:abstract xml:lang="pl">Salvador da Bahia – Salvador, Bahia, trzecie co do wielkości miasto we wschodniej Brazylii. Historyczna, pełna nazwa miasta to São Salvador da Baía de Todos os Santos (Święty Wybawca z Zatoki Wszystkich Świętych), gdyż miasto leży nad Zatoką Wszystkich Świętych. Stolica stanu Bahia, ważny port nad Oceanem Atlantyckim. Miasto było do 1763 roku stolicą portugalskiej Brazylii. Nazwa Bahia do połowy 20 wieku była zamiennikiem nazwy miasta. Jest tu siedziba arcybiskupa, są dwa uniwersytety, instytut kakao, ogród zoologiczny i botaniczny. Jest uznanym międzynarodowo centrum handlowym i gospodarczym z rafinerią ropy naftowej, przemysłem przetwórstwa bawełny, tytoniu, kakao i cukru. Salvador jest położony na różnych poziomach łańcucha górskiego, który dzieli miasto na tzw. miasto górne (cidade alta) i o 70 m niżej położone miasto dolne (cidade baixa). Z jednej do drugiej części miasta można się dostać używając windy Lacerda, miejskiej kolejki linowej Plano Inclinado Gonçalves lub jednej z wielu linii autobusowych.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Salvador de Bahía, fundada como São Salvador da Bahia de Todos os Santos (se suele llamar solamente Salvador en Brasil) (San Salvador de la Bahía de Todos los Santos) es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad (en griego Soteropolis, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ y πόλις . Situada en la Microrregión de Salvador, la ciudad es una metrópoli nacional con casi tres millones de habitantes, siendo la ciudad más poblada del Noreste de Brasil, la tercera más poblada de dicho país, y la octava de toda América Latina . Su área metropolitana, conocida como Región Metropolitana de Salvador o Gran Salvador, posee 3.767.902 habitantes, lo que la torna en la más poblada del Nordeste, la quinta de Brasil y la 111° del mundo. Fue clasificada en comparación con la red urbana de otras ciudades brasileñas como un centro metropolitano nacional. La superficie del municipio de Salvador es de 706,8 km² y sus cordenadas, a partir del marco de la fundación de la ciudad, en el Faro de la Barra o Fortaleza de San Antonio son 13° sur y 38° 31&#39; 12&#39;&#39; oeste. Centro económico del estado, es un puerto exportador, centro industrial, administrativo y turístico, alberga diversas universidades y una base naval en Aratu. La ciudad de Salvador era antiguamente llamada Bahía, inclusive por los habitantes del propio estado. También recibió algunos apodos como Capital de la Alegría (en portugués Capital da Alegria debido a los enormes festejos populares, y Roma Negra, por ser considerada la metrópoli con el mayor porcentaje de negros localizada fuera de África. A su vez, Salvador es sede de importantes empresas regionales, nacionales e internacionales. Fue en Salvador donde surgió la Odebrecht, que, en 2008, se volvió el mayor conglomerado de empresas, dedicada a la construcción civil y la petroquímica en América Latina, con varias unidades de negocios en Salvador, Río de Janeiro, Sao Paulo y diversos países del mundo.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Salvador est une ville du Brésil capitale de l&#39;État de Bahia. Elle est située sur une péninsule au bord de l&#39;océan Atlantique au nord-est du pays. Elle comptait habitants en 2009 (plus de pour l&#39;agglomération la même année). Sa dénomination exacte est São Salvador da Bahia de Todos os Santos, « Saint Sauveur de la Baie de tous les Saints ». Elle est située au bord de la baie du même nom. C&#39;est le port principal de la région Recôncavo Baiano. Il y a environ deux heures d&#39;avion entre Salvador et São Paulo. Bahia la Noire, le plus beau fleuron du Brésil colonial, grandit, se transforme, se modernise, sans pour autant perdre son âme : le charme et les rythmes qui l&#39;ont rendue célèbre.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Salvador of Salvador da Bahia is een stad gelegen in het noordoosten van Brazilië aan de Atlantische Oceaan. Ze is de hoofdstad van de deelstaat Bahia. De gangbare naam voor de stad in de spreektaal is &#39;Salvador&#39;, hoewel in oude documenten soms gesproken wordt van &#39;Bahia&#39;. Salvador telt 2.948.733 inwoners (volgens de volkstelling van het IBGE in 2008) en is qua inwonertal de derde stad van Brazilië, na São Paulo en Rio de Janeiro. Salvador was tot 1763 de hoofdstad van Brazilië. De stad dankt zijn naam aan het feit dat de Portugezen de baai binnenvoeren op de dag van Allerheiligen in 1501. Deze baai wordt dan ook de Allerheiligenbaai (of Bahia de Todos os Santos) genoemd. De eerste nederzetting werd gebouwd op een steile heuvel die uitkijkt over de baai met zijn haven. Deze locatie werd uitgekozen vanwege de goede verdedigbaarheid, omdat de stad in de beginperiode veel te maken had met aanvallen van indianen en Europese concurrenten. Salvador is meerdere malen vanuit Recife aangevallen door de Nederlanders, die tussen 1624-1625 en 1646-1647 de stad kortstondig bezetten.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Salvador (fundada como São Salvador da Bahia de Todos os Santos) é um município brasileiro, capital do estado da Bahia e primeira capital do Brasil. A cidade de Salvador é notável, no Brasil, pela sua gastronomia, música e arquitetura, e sua área metropolitana é a . A influência africana em muitos aspectos culturais da cidade torna o centro da cultura afro-brasileira. Isso reflete uma situação em que se celebram práticas culturais afro-brasileiras. O Centro Histórico de Salvador, iconizado no bairro do Pelourinho, é conhecido pela sua arquitetura colonial portuguesa com monumentos históricos que datam do século XVII até o século XIX e foi declarado como Patrimônio Mundial pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) em 1985. Situada na microrregião homônima, Salvador possui mais de 2,7 milhões de habitantes, sendo o município mais populoso do Nordeste, o terceiro mais populoso do Brasil e o oitavo mais populoso da América Latina. Sua região metropolitana, conhecida como &quot;Grande Salvador&quot;, possui 3.642.682 habitantes recenseados em 2012 pelo Instituto Brasileiro de Geografia e Estatística (IBGE), o que a torna a terceira mais populosa do Nordeste, e uma das . Por essas dimensões urbano-populacionais, é classificada pelo estudo do IBGE sobre a rede urbana brasileira como uma metrópole regional. Tais dados demográficos espalham-se por uma superfície de 706,8 km², ainda conforme o IBGE, cujas coordenadas, a partir do marco da fundação da cidade, no Forte de Santo Antônio da Barra, são 12° 58&#39; 16&#39;&#39; sul e 38° 30&#39; 39&#39;&#39; oeste. A primeira sede da administração colonial portuguesa do Brasil, a cidade é uma das mais antigas da América. Por um longo tempo era antigamente chamada de &quot;Bahia&quot; ou &quot;cidade da Bahia&quot;, inclusive por moradores do próprio estado e aparece sob este nome ou como &quot;Salvador da Bahia&quot; a fim de diferenciá-las de outras cidades de mesmo nome. Também recebeu epítetos como Roma Negra e Meca da Negritude, por ser uma metrópole cuja maior parte da população é negra, plena de elementos simbólicos e religiosos africanos. De acordo com o antropólogo Vivaldo da Costa Lima, a expressão &quot;Roma Negra&quot; é uma derivação de &quot;Roma Africana&quot;, cunhada por Mãe Aninha, fundadora do Ilê Axé Opó Afonjá. Nos anos 1940, em depoimento à antropóloga cultural Ruth Landes. Segundo Mãe Aninha, assim como Roma era o centro do catolicismo, Salvador seria o centro do culto aos orixás. Posteriormente, em seu livro Cidade das Mulheres, Landes traduziu a expressão como Negro Africa. Posteriormente, quando o livro foi traduzido para o português, Negro Africa transformou-se Roma Negra. Centro econômico do estado, Salvador é também porto exportador, centro industrial, administrativo e turístico. Ademais, é sede de importantes empresas regionais, nacionais e internacionais. Foi em Salvador onde surgiu a Odebrecht, que, em 2008, tornou-se o maior conglomerado de empresas do ramo da construção civil e petroquímica da América Latina, com várias unidades de negócios em Salvador, Rio de Janeiro, São Paulo e diversos países do mundo. Além de empresas, a cidade sedia também muitos eventos, organizações e instituições, como a Universidade Federal da Bahia (melhor do Nordeste e a 16º da América Latina e a brasileira que mais melhorou nos últimos dois anos) e a Escola de Administração do Exército Brasileiro.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">萨尔瓦多（Salvador，全名São Salvador da Baía de Todos os Santos，意为“万圣湾边的圣萨尔瓦多”）是巴西東北的一座滨海城市，巴伊亚州的首府。萨尔瓦多很长时间里直接被称为巴伊亚，20世纪中前的许多书和地图中它就被标为巴伊亚（比如在丹尼尔·笛福著的《鲁宾逊漂流记》中）。今天当地许多人依然将巴伊亚作为萨尔瓦多的称呼，而巴西其他许多人则将该州称为巴伊亚。 萨尔瓦多位于大西洋畔的一个半岛上，离托多斯奥斯圣托斯湾很近。它是当地都市地区的中心。2002年其人口为254万人，是巴西的第三大城市。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Salvador is the largest city on the northeast coast of Brazil and the capital of the Northeastern Brazilian state of Bahia. Salvador is also known as Brazil&#39;s capital of happiness due to its easygoing population and countless popular outdoor parties, including its street carnival. The first colonial capital of Brazil, the city is one of the oldest in the Americas. For a long time, it was simply known as Bahia, and appears under that name (or as Salvador da Bahia, Salvador of Bahia so as to differentiate it from other Brazilian cities of the same name) on many maps and books from before the mid-20th century. Salvador is the third most populous Brazilian city, after São Paulo and Rio de Janeiro. The metropolitan area of the city, with 3.5 million of people, however, is the seventh most populous Brazilian urban agglomeration, and the third in Brazilian Northeast Region. The city of Salvador is notable in Brazil for its cuisine, music and architecture, and its metropolitan area is the wealthiest in Brazil&#39;s Northeast. The African influence in many cultural aspects of the city makes it the centre of Afro-Brazilian culture. This reflects a situation in which African-associated cultural practices are celebrated. The historical centre of Salvador, frequently called the Pelourinho, is renowned for its Portuguese colonial architecture with historical monuments dating from the 17th to the 19th centuries and was declared a World Heritage Site by UNESCO in 1985. Salvador is located on a small, roughly triangular peninsula that separates Todos os Santos Bay from the open waters of the Atlantic Ocean. The bay, which gets its name from having been discovered on All Saints&#39; Day forms a natural harbor. Salvador is a major export port, lying at the heart of the Recôncavo Baiano, a rich agricultural and industrial region encompassing the northern portion of coastal Bahia. A particularly notable feature is the escarpment that divides Salvador into the Cidade Alta (&quot;Upper Town&quot; - rest of the city) and the Cidade Baixa (&quot;Lower Town&quot; - northwest region of the city), the former some 85 m above the latter, with the city&#39;s cathedral and most administrative buildings standing on the higher ground. An elevator (the first installed in Brazil), known as Elevador Lacerda, has connected the two sections since 1873, having since undergone several upgrades.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Salvador da Bahia ist nach São Paulo und Rio de Janeiro die drittgrößte Stadt Brasiliens. Der historische Name der Küstenstadt lautet São Salvador da Bahia de Todos os Santos (Heiliger Erlöser von der Bucht der Allerheiligen), da sie an der Allerheiligenbucht liegt (Der Name geht auf den Tag der Ankunft der ersten Seefahrer zurück, Allerheiligen). Salvador hat rund 2,7 Millionen Einwohner, ist die Hauptstadt des nordöstlichen Bundesstaates Bahia und war bis 1763 Hauptstadt Brasiliens. Salvador ist die größte Stadt des Nordostens und die achtgrößte Lateinamerikas (größere Städte sind São Paulo, Mexiko-Stadt, Buenos Aires, Lima, Bogotá, Rio de Janeiro und Santiago) Der Name „Bahia“ war bis Mitte des 20. Jahrhunderts auch als Alias für die Stadt gebräuchlich. Salvador ist Erzbischofssitz, ein Kakao-Institut, einen zoologischen und einen botanischen Garten. Es ist ein international anerkanntes Handels- und Wirtschaftszentrum mit Erdölraffinerie, Baumwoll-, Tabak-, Kakaoverarbeitung sowie eine Zuckerraffinerie. Salvador ist auf verschiedenen Ebenen einer Bergkette gebaut, welche die Stadt in eine Oberstadt (cidade alta) und in eine 70 Meter tiefer gelegene Unterstadt (cidade baixa) teilen. Um vom einen Teil in den anderen zu gelangen, kann man den Aufzug Lacerda oder eine der vielen Buslinien nutzen.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Salvador è la capitale dello Stato di Bahia, appartenente alla regione nord orientale del Brasile. Il nome per esteso è São Salvador da Bahia de Todos os Santos ma per i brasiliani è più semplicemente Salvador e, specie nel passato, anche solamente Bahia, dicitura, quest&#39;ultima, che è stata poi utilizzata per dare il nome all&#39;intero stato di cui Salvador è la capitale. Salvador è la terza città più popolosa del Brasile, dopo San Paolo e Rio de Janeiro, e la maggiore della regione del Nord-Est. I suoi abitanti sono chiamati soteropolitani, dalla versione greca del nome Salvador (Salvatore), vale a dire Soteropolis, traducibile letteralmente come &quot;città del Salvatore&quot;.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Салвадо́р (порт. Salvador — Спаситель; полное название — Сан-Салвадор-да-Баия-ди-Тодуш-уш-Сантуш — Святой Спаситель Бухты Всех Святых) — город в Бразилии, столица штата Баия. Основан в 1549. До 1763 Салвадор был столицей Бразилии. Составная часть мезорегиона Салвадор. Находится в составе крупной городской агломерации Салвадор. Входит в экономико-статистический микрорегион Салвадор. Население составляет 2 892 625 человек на 2007 год. Занимает площадь 706 799 км². Плотность населения — 3840,0 чел. /км². Город располагается на двух уровнях. «Нижний город» находится на уровне моря, являясь торговым центром Салвадора, где продавщицы (в основном пожилые женщины, баиянки) в традиционной белой одежде торгуют разнообразными сладостями из кокосового ореха. В «Верхнем городе» расположены правительственные учреждения, построенные в колониальном стиле, музеи, церкви и постройки современной архитектуры. Из Верхнего города в нижний можно спуститься, воспользовавшись уникальным видом городского транспорта — подъёмником Ласерда. Город Салвадор — один из исторических центров развития ангольской капоэйры — традиционной бразильской борьбы-танца. История и культурное наследие лирики и духовности капоэйры в целом и Капоэйры Ангола в частности неотъемлемо связаны с этим культурным феноменом.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">サルヴァドール（Salvador）はブラジル北東部、大西洋岸にある港湾都市。同国バイーア州の州都である。なお一般的には、サルヴァドールよりもバイーアと呼ばれる方が多い。 大西洋に面し、「諸聖人の湾」を取り囲む半島に位置している。主要な輸出港であるとともに、この湾周辺のRecôncavo Baiano大都市圏の中心でもある。2002年の人口は約254万人、ベロオリゾンテを抜いて現在ブラジルで三番目に大きな都市となっている。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Salvador är en stad och kommun i delstaten Bahia i östra Brasilien. Staden ligger på en halvö vid atlantkusten och är en viktig hamnstad i regionen Recôncavo Baiano. Salvadors historiska centrum är sedan 1985 klassat som ett världsarv. Folkmängden uppgår till cirka 2,7 miljoner invånare, med cirka 3,6 miljoner invånare i hela storstadsområdet. Salvador hette från början São Salvador da Baía de Todos os Santos, ungefär &quot;Den helige frälsaren av alla helgons vik&quot;, och kallades Bahia eller Salvador Bahia i till exempel kartböcker från 1900-talets första hälft.</dbpedia-owl:abstract>
+    <dbpedia-owl:area rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</dbpedia-owl:area>
+    <dbpedia-owl:areaCode xml:lang="en">+55 71</dbpedia-owl:areaCode>
+    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.06e+08</dbpedia-owl:areaTotal>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Brazil" />
+    <dbpedia-owl:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.0</dbpedia-owl:elevation>
+    <dbpedia-owl:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1549-03-29</dbpedia-owl:foundingDate>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Democrats_(Brazil)" />
+    <dbpedia-owl:leaderTitle xml:lang="en">Mayor</dbpedia-owl:leaderTitle>
+    <dbpedia-owl:motto xml:lang="en">Sic illa ad arcam reversa est (And thus the dove returned to the ark)</dbpedia-owl:motto>
+    <dbpedia-owl:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3791.2</dbpedia-owl:populationDensity>
+    <dbpedia-owl:populationMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3574804</dbpedia-owl:populationMetro>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2676606</dbpedia-owl:populationTotal>
+    <dbpedia-owl:postalCode xml:lang="en">40000-000</dbpedia-owl:postalCode>
+    <dbpedia-owl:timeZone rdf:resource="http://dbpedia.org/resource/UTC%E2%88%9203:00" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3715871</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548295489</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="pl">Salvador</rdfs:label>
+    <rdfs:label xml:lang="en">Salvador, Bahia</rdfs:label>
+    <rdfs:label xml:lang="it">Salvador (Brasile)</rdfs:label>
+    <rdfs:label xml:lang="ja">サルヴァドール</rdfs:label>
+    <rdfs:label xml:lang="fr">Salvador (Bahia)</rdfs:label>
+    <rdfs:label xml:lang="pt">Salvador (Bahia)</rdfs:label>
+    <rdfs:label xml:lang="sv">Salvador, Brasilien</rdfs:label>
+    <rdfs:label xml:lang="de">Salvador da Bahia</rdfs:label>
+    <rdfs:label xml:lang="nl">Salvador (stad)</rdfs:label>
+    <rdfs:label xml:lang="es">Salvador de Bahía</rdfs:label>
+    <rdfs:label xml:lang="zh">萨尔瓦多 (巴西)</rdfs:label>
+    <rdfs:label xml:lang="ru">Салвадор (Баия)</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1d/Montagem_Salvador.jpg" />
+    <rdfs:comment xml:lang="ru">Салвадо́р (порт. Salvador — Спаситель; полное название — Сан-Салвадор-да-Баия-ди-Тодуш-уш-Сантуш — Святой Спаситель Бухты Всех Святых) — город в Бразилии, столица штата Баия. Основан в 1549. До 1763 Салвадор был столицей Бразилии. Составная часть мезорегиона Салвадор. Находится в составе крупной городской агломерации Салвадор. Входит в экономико-статистический микрорегион Салвадор. Население составляет 2 892 625 человек на 2007 год. Занимает площадь 706 799 км².</rdfs:comment>
+    <rdfs:comment xml:lang="zh">萨尔瓦多（Salvador，全名São Salvador da Baía de Todos os Santos，意为“万圣湾边的圣萨尔瓦多”）是巴西東北的一座滨海城市，巴伊亚州的首府。萨尔瓦多很长时间里直接被称为巴伊亚，20世纪中前的许多书和地图中它就被标为巴伊亚（比如在丹尼尔·笛福著的《鲁宾逊漂流记》中）。今天当地许多人依然将巴伊亚作为萨尔瓦多的称呼，而巴西其他许多人则将该州称为巴伊亚。 萨尔瓦多位于大西洋畔的一个半岛上，离托多斯奥斯圣托斯湾很近。它是当地都市地区的中心。2002年其人口为254万人，是巴西的第三大城市。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Salvador da Bahia – Salvador, Bahia, trzecie co do wielkości miasto we wschodniej Brazylii. Historyczna, pełna nazwa miasta to São Salvador da Baía de Todos os Santos (Święty Wybawca z Zatoki Wszystkich Świętych), gdyż miasto leży nad Zatoką Wszystkich Świętych. Stolica stanu Bahia, ważny port nad Oceanem Atlantyckim. Miasto było do 1763 roku stolicą portugalskiej Brazylii. Nazwa Bahia do połowy 20 wieku była zamiennikiem nazwy miasta.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">サルヴァドール（Salvador）はブラジル北東部、大西洋岸にある港湾都市。同国バイーア州の州都である。なお一般的には、サルヴァドールよりもバイーアと呼ばれる方が多い。 大西洋に面し、「諸聖人の湾」を取り囲む半島に位置している。主要な輸出港であるとともに、この湾周辺のRecôncavo Baiano大都市圏の中心でもある。2002年の人口は約254万人、ベロオリゾンテを抜いて現在ブラジルで三番目に大きな都市となっている。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Salvador of Salvador da Bahia is een stad gelegen in het noordoosten van Brazilië aan de Atlantische Oceaan. Ze is de hoofdstad van de deelstaat Bahia. De gangbare naam voor de stad in de spreektaal is &#39;Salvador&#39;, hoewel in oude documenten soms gesproken wordt van &#39;Bahia&#39;. Salvador telt 2.948.733 inwoners (volgens de volkstelling van het IBGE in 2008) en is qua inwonertal de derde stad van Brazilië, na São Paulo en Rio de Janeiro. Salvador was tot 1763 de hoofdstad van Brazilië.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Salvador è la capitale dello Stato di Bahia, appartenente alla regione nord orientale del Brasile. Il nome per esteso è São Salvador da Bahia de Todos os Santos ma per i brasiliani è più semplicemente Salvador e, specie nel passato, anche solamente Bahia, dicitura, quest&#39;ultima, che è stata poi utilizzata per dare il nome all&#39;intero stato di cui Salvador è la capitale. Salvador è la terza città più popolosa del Brasile, dopo San Paolo e Rio de Janeiro, e la maggiore della regione del Nord-Est.</rdfs:comment>
+    <rdfs:comment xml:lang="sv">Salvador är en stad och kommun i delstaten Bahia i östra Brasilien. Staden ligger på en halvö vid atlantkusten och är en viktig hamnstad i regionen Recôncavo Baiano. Salvadors historiska centrum är sedan 1985 klassat som ett världsarv. Folkmängden uppgår till cirka 2,7 miljoner invånare, med cirka 3,6 miljoner invånare i hela storstadsområdet.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Salvador est une ville du Brésil capitale de l&#39;État de Bahia. Elle est située sur une péninsule au bord de l&#39;océan Atlantique au nord-est du pays. Elle comptait habitants en 2009 (plus de pour l&#39;agglomération la même année). Sa dénomination exacte est São Salvador da Bahia de Todos os Santos, « Saint Sauveur de la Baie de tous les Saints ». Elle est située au bord de la baie du même nom. C&#39;est le port principal de la région Recôncavo Baiano.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Salvador da Bahia ist nach São Paulo und Rio de Janeiro die drittgrößte Stadt Brasiliens. Der historische Name der Küstenstadt lautet São Salvador da Bahia de Todos os Santos (Heiliger Erlöser von der Bucht der Allerheiligen), da sie an der Allerheiligenbucht liegt (Der Name geht auf den Tag der Ankunft der ersten Seefahrer zurück, Allerheiligen). Salvador hat rund 2,7 Millionen Einwohner, ist die Hauptstadt des nordöstlichen Bundesstaates Bahia und war bis 1763 Hauptstadt Brasiliens.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Salvador de Bahía, fundada como São Salvador da Bahia de Todos os Santos (se suele llamar solamente Salvador en Brasil) (San Salvador de la Bahía de Todos los Santos) es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad (en griego Soteropolis, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ y πόλις .</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Salvador (fundada como São Salvador da Bahia de Todos os Santos) é um município brasileiro, capital do estado da Bahia e primeira capital do Brasil. A cidade de Salvador é notável, no Brasil, pela sua gastronomia, música e arquitetura, e sua área metropolitana é a . A influência africana em muitos aspectos culturais da cidade torna o centro da cultura afro-brasileira. Isso reflete uma situação em que se celebram práticas culturais afro-brasileiras.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Salvador is the largest city on the northeast coast of Brazil and the capital of the Northeastern Brazilian state of Bahia. Salvador is also known as Brazil&#39;s capital of happiness due to its easygoing population and countless popular outdoor parties, including its street carnival. The first colonial capital of Brazil, the city is one of the oldest in the Americas.</rdfs:comment>
+    <foaf:name xml:lang="en">O Municipio do</foaf:name>
+    <foaf:name xml:lang="en">Salvador</foaf:name>
+    <foaf:name xml:lang="en">São Salvador da Bahia de Todos os Santos</foaf:name>
+    <foaf:name xml:lang="en">Saint Savior of the Bay of all Saints</foaf:name>
+    <foaf:name xml:lang="en">The Municipality of</foaf:name>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Northeast_Region,_Brazil" />
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Bahia" />
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Montagem_Salvador.jpg/200px-Montagem_Salvador.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archive.cyark.org/salvador-da-bahia-intro" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://whc.unesco.org/en/list/309" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvador.ba.gov.br" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvadorbahiaguide.com" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvador.ba.gov.br/" />
+    <dbpprop:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.6</dbpprop:aprHighC>
+    <dbpprop:aprHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</dbpprop:aprHumidity>
+    <dbpprop:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.9</dbpprop:aprLowC>
+    <dbpprop:aprMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.8</dbpprop:aprMeanC>
+    <dbpprop:aprPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</dbpprop:aprPrecipitationDays>
+    <dbpprop:aprPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">321.6</dbpprop:aprPrecipitationMm>
+    <dbpprop:aprRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:aprRecordHighC>
+    <dbpprop:aprRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbpprop:aprRecordLowC>
+    <dbpprop:aprSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</dbpprop:aprSun>
+    <dbpprop:areaCode xml:lang="en">+55 71</dbpprop:areaCode>
+    <dbpprop:areaMagnitude rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100000000</dbpprop:areaMagnitude>
+    <dbpprop:areaTotalKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706</dbpprop:areaTotalKm>
+    <dbpprop:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.4</dbpprop:augHighC>
+    <dbpprop:augHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop:augHumidity>
+    <dbpprop:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.3</dbpprop:augLowC>
+    <dbpprop:augMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9</dbpprop:augMeanC>
+    <dbpprop:augPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbpprop:augPrecipitationDays>
+    <dbpprop:augPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.9</dbpprop:augPrecipitationMm>
+    <dbpprop:augRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbpprop:augRecordHighC>
+    <dbpprop:augRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dbpprop:augRecordLowC>
+    <dbpprop:augSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">201.5</dbpprop:augSun>
+    <dbpprop:coordinatesDisplay xml:lang="en">inline,title</dbpprop:coordinatesDisplay>
+    <dbpprop:coordinatesRegion xml:lang="en">BR</dbpprop:coordinatesRegion>
+    <dbpprop:criteria xml:lang="en">iv, vi</dbpprop:criteria>
+    <dbpprop:date xml:lang="en">August 2010</dbpprop:date>
+    <dbpprop:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbpprop:decHighC>
+    <dbpprop:decHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop:decHumidity>
+    <dbpprop:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.2</dbpprop:decLowC>
+    <dbpprop:decMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.1</dbpprop:decMeanC>
+    <dbpprop:decPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:decPrecipitationDays>
+    <dbpprop:decPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</dbpprop:decPrecipitationMm>
+    <dbpprop:decRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:decRecordHighC>
+    <dbpprop:decRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:decRecordLowC>
+    <dbpprop:decSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">223.2</dbpprop:decSun>
+    <dbpprop:elevationM rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbpprop:elevationM>
+    <dbpprop:establishedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbpprop:establishedDate>
+    <dbpprop:establishedTitle xml:lang="en">Founded</dbpprop:establishedTitle>
+    <dbpprop:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop:febHighC>
+    <dbpprop:febHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</dbpprop:febHumidity>
+    <dbpprop:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9</dbpprop:febLowC>
+    <dbpprop:febMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbpprop:febMeanC>
+    <dbpprop:febPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:febPrecipitationDays>
+    <dbpprop:febPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">121.2</dbpprop:febPrecipitationMm>
+    <dbpprop:febRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:febRecordHighC>
+    <dbpprop:febRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbpprop:febRecordLowC>
+    <dbpprop:febSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">228.8</dbpprop:febSun>
+    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</dbpprop:id>
+    <dbpprop:imageCaption xml:lang="en">Top left: Pelourinho historic area, Top right: Lacerda Elevator, Modelo Market and Ladeira da Pregaica water-front area, Middle: Sight of Victoria area, Bottom left: Lacerdaforte area, Bottom right: Barra Lighthouse</dbpprop:imageCaption>
+    <dbpprop:imageFlag xml:lang="en">Bandeira de Salvador.svg</dbpprop:imageFlag>
+    <dbpprop:imageMap xml:lang="en">Bahia Municip Salvador.svg</dbpprop:imageMap>
+    <dbpprop:imageSeal xml:lang="en">Brasão de Salvador.jpg</dbpprop:imageSeal>
+    <dbpprop:imageSkyline xml:lang="en">Montagem Salvador.jpg</dbpprop:imageSkyline>
+    <dbpprop:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.9</dbpprop:janHighC>
+    <dbpprop:janHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</dbpprop:janHumidity>
+    <dbpprop:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.7</dbpprop:janLowC>
+    <dbpprop:janMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.8</dbpprop:janMeanC>
+    <dbpprop:janPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:janPrecipitationDays>
+    <dbpprop:janPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.9</dbpprop:janPrecipitationMm>
+    <dbpprop:janRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:janRecordHighC>
+    <dbpprop:janRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbpprop:janRecordLowC>
+    <dbpprop:janSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">244.9</dbpprop:janSun>
+    <dbpprop:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.2</dbpprop:julHighC>
+    <dbpprop:julHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop:julHumidity>
+    <dbpprop:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.4</dbpprop:julLowC>
+    <dbpprop:julMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.8</dbpprop:julMeanC>
+    <dbpprop:julPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbpprop:julPrecipitationDays>
+    <dbpprop:julPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">203.6</dbpprop:julPrecipitationMm>
+    <dbpprop:julRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbpprop:julRecordHighC>
+    <dbpprop:julRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:julRecordLowC>
+    <dbpprop:julSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">179.8</dbpprop:julSun>
+    <dbpprop:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.5</dbpprop:junHighC>
+    <dbpprop:junHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</dbpprop:junHumidity>
+    <dbpprop:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.1</dbpprop:junLowC>
+    <dbpprop:junMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.3</dbpprop:junMeanC>
+    <dbpprop:junPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbpprop:junPrecipitationDays>
+    <dbpprop:junPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">251.4</dbpprop:junPrecipitationMm>
+    <dbpprop:junRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbpprop:junRecordHighC>
+    <dbpprop:junRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbpprop:junRecordLowC>
+    <dbpprop:junSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</dbpprop:junSun>
+    <dbpprop:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbpprop:latd>
+    <dbpprop:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</dbpprop:latm>
+    <dbpprop:latns xml:lang="en">S</dbpprop:latns>
+    <dbpprop:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbpprop:lats>
+    <dbpprop:leaderName xml:lang="en">Antônio Carlos Magalhães Neto DEM</dbpprop:leaderName>
+    <dbpprop:leaderTitle rdf:resource="http://dbpedia.org/resource/Mayor" />
+    <dbpprop:link rdf:resource="http://whc.unesco.org/en/list/309" />
+    <dbpprop:location xml:lang="en">Salvador</dbpprop:location>
+    <dbpprop:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbpprop:longd>
+    <dbpprop:longew xml:lang="en">W</dbpprop:longew>
+    <dbpprop:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dbpprop:longm>
+    <dbpprop:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dbpprop:longs>
+    <dbpprop:mapCaption xml:lang="en">Location of Salvador in the State of Bahia</dbpprop:mapCaption>
+    <dbpprop:mapsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbpprop:mapsize>
+    <dbpprop:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop:marHighC>
+    <dbpprop:marHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</dbpprop:marHumidity>
+    <dbpprop:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.1</dbpprop:marLowC>
+    <dbpprop:marMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.1</dbpprop:marMeanC>
+    <dbpprop:marPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbpprop:marPrecipitationDays>
+    <dbpprop:marPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">144.6</dbpprop:marPrecipitationMm>
+    <dbpprop:marRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:marRecordHighC>
+    <dbpprop:marRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:marRecordLowC>
+    <dbpprop:marSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">232.5</dbpprop:marSun>
+    <dbpprop:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.7</dbpprop:mayHighC>
+    <dbpprop:mayHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</dbpprop:mayHumidity>
+    <dbpprop:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbpprop:mayLowC>
+    <dbpprop:mayMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.4</dbpprop:mayMeanC>
+    <dbpprop:mayPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbpprop:mayPrecipitationDays>
+    <dbpprop:mayPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">324.8</dbpprop:mayPrecipitationMm>
+    <dbpprop:mayRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbpprop:mayRecordHighC>
+    <dbpprop:mayRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbpprop:mayRecordLowC>
+    <dbpprop:maySun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">173.6</dbpprop:maySun>
+    <dbpprop:metricFirst xml:lang="en">yes</dbpprop:metricFirst>
+    <dbpprop:motto xml:lang="en">Sic illa ad arcam reversa est</dbpprop:motto>
+    <dbpprop:name xml:lang="en">Salvador</dbpprop:name>
+    <dbpprop:nickname xml:lang="en">Capital da Alegria , Roma Negra  and Bahia Judia .</dbpprop:nickname>
+    <dbpprop:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.9</dbpprop:novHighC>
+    <dbpprop:novHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop:novHumidity>
+    <dbpprop:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.9</dbpprop:novLowC>
+    <dbpprop:novMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.9</dbpprop:novMeanC>
+    <dbpprop:novPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:novPrecipitationDays>
+    <dbpprop:novPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">118.5</dbpprop:novPrecipitationMm>
+    <dbpprop:novRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbpprop:novRecordHighC>
+    <dbpprop:novRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbpprop:novRecordLowC>
+    <dbpprop:novSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</dbpprop:novSun>
+    <dbpprop:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.1</dbpprop:octHighC>
+    <dbpprop:octHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop:octHumidity>
+    <dbpprop:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.5</dbpprop:octLowC>
+    <dbpprop:octMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3</dbpprop:octMeanC>
+    <dbpprop:octPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:octPrecipitationDays>
+    <dbpprop:octPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.2</dbpprop:octPrecipitationMm>
+    <dbpprop:octRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbpprop:octRecordHighC>
+    <dbpprop:octRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:octRecordLowC>
+    <dbpprop:octSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">229.4</dbpprop:octSun>
+    <dbpprop:officialName xml:lang="en">The Municipality of</dbpprop:officialName>
+    <dbpprop:officialName xml:lang="en">Saint Savior of the Bay of all Saints</dbpprop:officialName>
+    <dbpprop:officialName xml:lang="en">O Municipio do</dbpprop:officialName>
+    <dbpprop:officialName xml:lang="en">São Salvador da Bahia de Todos os Santos</dbpprop:officialName>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</dbpprop:populationAsOf>
+    <dbpprop:populationDensityKm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3791.2</dbpprop:populationDensityKm>
+    <dbpprop:populationMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3574804</dbpprop:populationMetro>
+    <dbpprop:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2676606</dbpprop:populationTotal>
+    <dbpprop:postalCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40000</dbpprop:postalCode>
+    <dbpprop:postalCodeType xml:lang="en">Postal Code</dbpprop:postalCodeType>
+    <dbpprop:precipitationColour xml:lang="en">green</dbpprop:precipitationColour>
+    <dbpprop:pushpinLabelPosition xml:lang="en">left</dbpprop:pushpinLabelPosition>
+    <dbpprop:pushpinMap xml:lang="en">Brazil</dbpprop:pushpinMap>
+    <dbpprop:pushpinMapCaption xml:lang="en">Location in Brazil</dbpprop:pushpinMapCaption>
+    <dbpprop:pushpinMapSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbpprop:pushpinMapSize>
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_the_Americas" />
+    <dbpprop:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.2</dbpprop:sepHighC>
+    <dbpprop:sepHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</dbpprop:sepHumidity>
+    <dbpprop:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.8</dbpprop:sepLowC>
+    <dbpprop:sepMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.5</dbpprop:sepMeanC>
+    <dbpprop:sepPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbpprop:sepPrecipitationDays>
+    <dbpprop:sepPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">112.2</dbpprop:sepPrecipitationMm>
+    <dbpprop:sepRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbpprop:sepRecordHighC>
+    <dbpprop:sepRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dbpprop:sepRecordLowC>
+    <dbpprop:sepSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</dbpprop:sepSun>
+    <dbpprop:session rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbpprop:session>
+    <dbpprop:settlementType xml:lang="en">Municipality</dbpprop:settlementType>
+    <dbpprop:singleLine xml:lang="en">yes</dbpprop:singleLine>
+    <dbpprop:source xml:lang="en">World Meteorological Organization, Hong Kong Observatory</dbpprop:source>
+    <dbpprop:source xml:lang="en">Weatherbase</dbpprop:source>
+    <dbpprop:stateParty rdf:resource="http://dbpedia.org/resource/Brazil" />
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Northeast_Region,_Brazil" />
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Bahia" />
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/File:Bandeira_da_Bahia.svg" />
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/States_of_Brazil" />
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Regions_of_Brazil" />
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbpprop:temperatureColour xml:lang="en">pastel</dbpprop:temperatureColour>
+    <dbpprop:timezone rdf:resource="http://dbpedia.org/resource/UTC%E2%88%9203:00" />
+    <dbpprop:title xml:lang="en">Articles Related to Salvador</dbpprop:title>
+    <dbpprop:type xml:lang="en">Cultural</dbpprop:type>
+    <dbpprop:unitPrecipitationDays rdf:datatype="http://dbpedia.org/datatype/millimetre">0.1</dbpprop:unitPrecipitationDays>
+    <dbpprop:website rdf:resource="http://www.salvador.ba.gov.br/" />
+    <dbpprop:whs rdf:resource="http://dbpedia.org/resource/Historic_Centre_(Salvador,_Bahia)" />
+    <dbpprop:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1985</dbpprop:year>
+    <dbpprop:yearRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbpprop:yearRecordHighC>
+    <dbpprop:yearRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbpprop:yearRecordLowC>
+    <foaf:homepage rdf:resource="http://www.salvador.ba.gov.br/" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-monument-noun-2" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-38.4767 -12.9747)</geo:geometry>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-38.4768 -12.9747)</geo:geometry>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-38.4767 -12.9747)</geo:geometry>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-38.4768 -12.9747)</geo:geometry>
+    <foaf:nick xml:lang="en">Capital da Alegria (Capital of happiness), Roma Negra (Black Rome) and Bahia Judia (Jewish Bay).</foaf:nick>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Salvador,_Bahia" />
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-38.4768</geo:long>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-38.4767</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-12.9747</geo:lat>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-12.9747</geo:lat>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Salvador,_Bahia?oldid=548295489" />
+    <grs:point xml:lang="en">-12.974722222222223 -38.47666666666667</grs:point>
+    <grs:point xml:lang="en">-12.974730555555556 -38.47683333333333</grs:point>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Salvador,_Bahia" />
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2081</dbpedia-owl:wikiPageInLinkCount>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">627</dbpedia-owl:wikiPageOutLinkCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Lambert">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulo_S._L._M._Barreto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Woolger">
+    <dbpedia-owl:residence rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Z%C3%B3zimo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1rio_Cravo_Neto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ant%C3%B3nio_Eduardo_Pereira_dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barrad%C3%A3o">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Est%C3%A1dio_de_Pitua%C3%A7u">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irm%C3%A3_Dulce_Pontes">
+    <dbpedia-owl:beatifiedPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Eduardo_Magalhaes">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odebrecht">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timbalada">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ramos_Ferreira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bal%C3%A9_Mulato_%E2%80%93_Ao_Vivo">
+    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agnaldo_Novaes_dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Sandro_Santana_de_Oliveira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ca%C3%ADque_Silva_Rocha">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinz%C3%B4_Machida">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Lopez_Cruz">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danilo_Marcelino">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diego_Andrade_Silva_Bispo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evanildo_Borges_Barbosa_J%C3%BAnior">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A1bio_Pereira_de_Azevedo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Santana_Pinto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magno_Damasceno_Santos_da_Cruz">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Nic%C3%A1cio">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulo_Marcos_de_Jesus_Ribeiro">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulo_Musse">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%89verton_Lopes">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%A1zaro_Ramos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Kanaan">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%BAcio_Mauro_Vinhas_de_Souza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J-Son">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junqueira_Freire">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pitty">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acelino_Freitas">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:home rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amanda_Nunes">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:fightingOutOf rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anderson_Concei%C3%A7%C3%A3o_Xavier">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apol%C3%B4nio_Morais_da_Paix%C3%A3o_Neto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Costa_de_Souza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carciano_de_Jesus_Ac%C3%A1cio">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diego_Higino">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edilson_Pereira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_da_Silva_Nascimento_Neto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elaine_Estrela_Moura">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Ara%C3%BAjo_Carvalho">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J%C3%BAnior_Negr%C3%A3o">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jadson_de_Brito_Lima">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juvenal_Amarijo">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leandro_dos_Santos_de_Jesus">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luciano_Andrade_Rissutt">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Oliveira_Ferreira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ueslei">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valdomiro_Duarte_de_Macedo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yrius_Carboni">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Botafogo_Sport_Club">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gal%C3%ADcia_Esporte_Clube">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suzano_Papel_e_Celulose">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1960_Copa_Libertadores">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Recapture_of_Bahia">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Clube_de_Regatas_do_Flamengo_season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edson_Carvalho">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ada%C3%ADlton_Jos%C3%A9_dos_Santos_Filho">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Costa_dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cau%C3%AA_Santos_da_Mata">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Lopes_Alc%C3%A2ntara">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Carlos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Lu%C3%ADs_Santos_da_Visita%C3%A7%C3%A3o">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Silva_Ramos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_da_Silva_Almeida">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camisa_de_V%C3%AAnus">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A9ricles_Chamusca">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priscila_Fantin">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_in_Chilean_football">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capture_of_Bahia">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Copa_Sudamericana_preliminary_stages">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Copa_do_Brasil">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriana_Ferreyr">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993_Campeonato_Brasileiro_S%C3%A9rie_A">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.nytimes.com/53932816252595957751">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Salvador">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Marighella">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahia">
+    <dbpprop:seat rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Amado">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_dos_Reis_Machado">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%82ngelo_Mariano_de_Almeida">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1965_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1969_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1983_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1987_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Cruzeiro_Esporte_Clube_season">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Cruzeiro_Esporte_Clube_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Clube_de_Regatas_do_Flamengo_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armandinho">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bendito_Entre_Las_Mujeres">
+    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caryb%C3%A9">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danildo_Jos%C3%A9_S%C3%A3o_Pedro_Accioly_Filho">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eli%C3%A9zio_Santos_Santana">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federa%C3%A7%C3%A3o_Bahiana_de_Futebol">
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9rgio_Ricardo_Messias_Neves">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleberson_Souza_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniela_Mercury">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dante_Bonfim_Costa_Santos">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margareth_Menezes">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mem_de_S%C3%A1">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Metro">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <foaf:logo rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandre_Rodrigues_Ferreira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Salvador_(Brasile)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%8Ddolos_Brazil_(season_3)">
+    <dbpprop:winnerOrigin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9rgio_Machado">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1989_Copa_Am%C3%A9rica">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arena_Fonte_Nova">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmilson_dos_Santos_Silva">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy_national_football_team">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itamar_Franco">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lateef_Crowder_Dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay_national_football_team">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maur%C3%ADcio_Grabois">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Est%C3%A1dio_Fonte_Nova">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bebeto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castro_Alves">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Alberto_Carvalho_dos_Anjos_Junior">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esporte_Clube_Vit%C3%B3ria">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Novos_Baianos">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Os%C3%A9as">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Roberto_Silva_Botelho">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humberlito_Borges">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Paranhos,_Viscount_of_Rio_Branco">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rubenilson_dos_Santos_da_Rocha">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1972_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1976_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1971_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1984_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1988_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Clube_de_Regatas_do_Flamengo_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BA-099">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpedia-owl:routeStart rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:cities rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1968_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1973_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1991_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orkestra_Rumpilezz">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Copa_Sudamericana_final_stages">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colonial_Brazil">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:cityServed rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorival_Caymmi">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everaldo_Barbosa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_de_Pinho_de_Souza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universidade_Cat%C3%B3lica_do_Salvador">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigerian_Brazilian">
+    <dbpedia-owl:populationPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Gonsalves_Paes_de_Azevedo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Salvador_da_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_FIFA_World_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahia_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_CR_Vasco_da_Gama_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A3o_Salvador_de_Bahia_de_Todos_os_Santos">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Salvador,_Bahia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1990_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed%C3%ADlson">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilza_Nogueira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu%C3%ADs_Gama">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vander_Luiz_Silva_Souza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmilton_Concei%C3%A7%C3%A3o_dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Battle_of_Salvador_da_Bahia">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germano_Meneghel">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_CR_Vasco_da_Gama_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997_FIFA_World_Youth_Championship_squads">
+    <dbpprop:club rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Salvador_de_Bahía">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/サルヴァドール">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/사우바도르">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_(Bahia)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_da_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Est%C3%A1dio_Parque_Santiago">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabiana_da_Silva_Sim%C3%B5es">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formiga_(footballer)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leandro_Bonfim">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TV_Itapoan">
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_de_Paula_Neto">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Sociedade_Esportiva_Palmeiras_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esporte_Clube_Bahia">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seb%C3%A1">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davi_Vieira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Battle_of_Salvador_da_Bahia">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Salvador">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_FIFA_World_Cup_qualification_(CONMEBOL)">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyoto_Machida">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_da_N%C3%B3brega">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Oliveira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Pedro_Minorelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilberto_Gil">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_de_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_de_Bahia,_Brazil">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A3o_Salvador_da_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Historic_Centre_of_Salvador_de_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_De_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_da_Bahia,_Brazil">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sao_Salvador_da_Bahia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sao_Salvador_de_Bahia_de_Todos_os_Santos">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Amado_University_Center">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universidade_Salvador">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aymor%C3%A9_Moreira">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sociedade_Esportiva_Palmeiras_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_WTA_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edson_Cardoso">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A3o_Salvador_da_Bahia_de_Todos_os_Santos">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriano_Pereira_da_Silva">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Os%C3%B3rio_da_Costa_Silva">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabore">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denilson_Martins_Nascimento">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edcarlos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A1bio_Lopes_Alc%C3%A2ntara">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabr%C3%ADcio_Lopes_Alc%C3%A2ntara">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauricio_Salles">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neto_Baiano">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alec_Stevens">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julio_C%C3%A9sar_de_Andrade_Moura">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Len%C3%ADlson_Batista_de_Souza">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariene_de_Castro">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pen%C3%A9lope_Nova">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pepeu_Gomes">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Barreto_(singer)">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raul_Seixas">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crist%C3%B3v%C3%A3o_Borges">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Ant%C3%B4nio_Saraiva">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sport_Club_Santos_Dumont">
+    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Salvador_(brazilské_město)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Салвадор_(Баия)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_FIFA_Confederations_Cup">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricardo_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Copa_Sudamericana_First_Stage">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador,_Bahia,_Brazil">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador,_Brazil">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997_in_Ecuadorian_football">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg%C3%B3rio_de_Matos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Aberto_de_Bahia">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aberto_de_Bahia">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005_Brasil_Open">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands_national_football_team_1999">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1983_Copa_Am%C3%A9rica">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evanivaldo_Castro">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_Language_Proficiency_Test">
+    <dbpprop:data rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingra_Liberato">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria_national_football_team_2013">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Viana_(fighter)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:fightingOutOf rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ana_Marcela_Cunha">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/State_of_Brazil">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rui_Barbosa">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Santos">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilmerson_dos_Santos_Mota">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_S%C3%A3o_Paulo_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judson_Augusto_do_Bonfim_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ednaldo_Oliveira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:fightingOutOf rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luiz_Carlos_D%C3%B3rea">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahia_Federal_Institute_of_Education,_Science_and_Technology">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Copa_Sudamericana_preliminary_stages">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Pereira">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Sport_Club_Corinthians_Paulista_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Campeonato_Baiano">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_CR_Vasco_da_Gama_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Governorate_General_of_Brazil">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Σαλβαδόρ_(Βραζιλία)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Salvador_(stad)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Salvador_da_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%89rica_Matos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_do_Carmo">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Instituto_Federal_Baiano">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu%C3%ADs_Alberto_Silva_dos_Santos">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_Santos_FC_season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Governorate_General_of_Bahia">
+    <dbpedia-owl:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:capital rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luciano_Pereira_Mendes">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q36947">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/萨尔瓦多_(巴西)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://af.dbpedia.org/resource/Salvador_da_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/سالفادور،_باهيا">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Горад_Сальвадор">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Салвадор_(Баия)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/সালভাদোর,_বাইয়া">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Salvador_(Brasil)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Salvador,_Brasil">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Salvador_de_Bahio">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Salvador_(Brasiilia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/سالوادور">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Salvador_(Brasilia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Salvador,_Baía">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/סלבדור_(ברזיל)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Salvador_(Brazil)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Salvador_da_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Salvador,_Brasil">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://io.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/სალვადორი_(ბრაზილია)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kk.dbpedia.org/resource/Салвадор_(Баия)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Soteropolis_(Brasilia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Salvadoras_(miestas)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Salvadora_(pilsēta)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mi.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/साल्व्हादोर_दा_बाईया">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Salvador,_Brazil">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Salvador_(Brasil)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://os.dbpedia.org/resource/Салвадор_(Баия)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pnb.dbpedia.org/resource/سلوادور">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://qu.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rm.dbpedia.org/resource/Salvador_da_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scn.dbpedia.org/resource/Salvador_(cità)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sco.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Salvador_(Brazil)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Salvador_(mesto)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Салвадор_(Бразил)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Salvador,_Brasilien">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tg.dbpedia.org/resource/Салвадор_(шаҳр)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/ซัลวาดอร์">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Салвадор_(Бразилія)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://yo.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ay.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be_x_old.dbpedia.org/resource/Сальвадор_(горад)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gn.dbpedia.org/resource/Salvador_(Bahía)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lij.dbpedia.org/resource/Salvador,_Brasî">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mn.dbpedia.org/resource/Салвадор">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mwl.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tet.dbpedia.org/resource/Salvador_(Bahia)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vec.dbpedia.org/resource/Salvador_(sità)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vo.dbpedia.org/resource/Salvador">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_min_nan.dbpedia.org/resource/Salvador,_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eml.dbpedia.org/resource/Salvador_Bahia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador,_Bahia" />
+  </rdf:Description>
+</rdf:RDF>
